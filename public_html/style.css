@@ -1,0 +1,46 @@
+body
+{
+background-color:  #00cccc;
+background-image: url(img/bg.jpg);
+background-repeat: no-repeat;
+background-position: left;
+background-size: cover;
+}
+
+h1
+{
+	font-family: Times New Roman, sans-serif;
+	font-style: italic;
+	color: #80bfff;
+}
+
+h2
+{
+	font-family: Arial Narrow, sans-serif;
+	 text-align: left;
+	font-style: italic;
+	color:  #1f7a7a;
+}
+
+h4
+{
+	font-family: Arial Narrow, sans-serif;
+	 text-align: center;
+	font-style: italic;
+	color: #003366;
+}
+
+p
+{
+ font-family: Arial, sans-serif;
+	 text-align: left;
+	font-style: italic;
+	color:  #004d99;
+}
+
+
+
+a:hover
+{
+	color: #0088cc;
+}
